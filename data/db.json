@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "dateTime": "July 02, 2023 11:17:36 AM",
+      "body": "Make a video on React, Make a video on NodeJS"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "dateTime": "July 03, 2023 11:17:36 AM",
+      "body": "Make a video on JS"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "dateTime": "September 27, 2023 12:18:47 AM",
+      "body": "Make a video on Next JS"
+    },
+    {
+      "id": 5,
+      "title": "Hi Madhan",
+      "dateTime": "September 26, 2023 10:07:15 PM",
+      "body": "Helopooo"
+    },
+    {
+      "id": 6,
+      "title": "Hi Huguess",
+      "dateTime": "September 26, 2023 10:50:45 PM",
+      "body": "PollososooS:dkjmlsakjnfdl\nljkfhasdkjhbnfkl;jas\n.fmkshdljkahnfvlaksd\ndsljkahfkjlasdklj\n"
+    },
+    {
+      "id": 7,
+      "title": "Congratss!!!",
+      "dateTime": "September 27, 2023 12:20:08 AM",
+      "body": "Completed REACT JS"
+    }
+  ]
+}
